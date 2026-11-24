@@ -20,3 +20,4 @@ Este repositorio solo tiene el sitio generado. El curso está en preparación: l
 | 10 | Rendimiento: Core Web Vitals |
 | 11 | Pruebas de interfaz |
 | 12 | Patrones y arquitectura del frontend |
+| 13 | Prompts para generar un frontend de producción |
